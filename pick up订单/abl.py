@@ -1,7 +1,7 @@
 import requests
 import json
 
-#订单中自增箱标号
+#订单中自增箱标号-你好
 # 定义存储全局变量的文件路径
 counter_file = "acounter.txt"
 def generate_incremental_string():
